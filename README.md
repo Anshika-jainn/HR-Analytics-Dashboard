@@ -21,7 +21,7 @@ This Power BI dashboard provides insights into employee attrition and workforce 
 - Microsoft Excel
 
 ## 📷 Dashboard Preview
-
+![HR Analytics Dashboard](HR analytics dashboard.png)
 
 ## 📁 Dataset
 HR Employee Attrition Dataset
